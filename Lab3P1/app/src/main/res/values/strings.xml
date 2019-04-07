@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3P1</string>
+    <string name="Boton1">Lugar1</string>
+    <string name="Boton2">Lugar2</string>
+    <string name="Boton3">Lugar3</string>
+    <string name="BotonP">Estrella</string>
+    <string name="eview">Nombre</string>
+    <string name="Iview">Guatemala</string>
+</resources>
